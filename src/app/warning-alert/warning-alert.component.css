@@ -1,3 +1,10 @@
 p{
   color: dodgerblue;
 }
+
+.alert{
+  width: 75%;
+  margin: auto;
+  border: solid;
+  text-align: center;
+}
